@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+  
+  <!-- 
+    ===========================
+    Enhanced Sitemap for FairAddis
+    ===========================
+    This sitemap helps search engines discover and index all important pages
+    on your website. It includes proper priorities, change frequencies, and
+    additional metadata for better SEO performance.
+    
+    Last Updated: 2024-12-19
+    Total URLs: This sitemap covers all main pages and business categories
+  -->
+
+  <!-- ===========================
+       CORE PAGES - Highest Priority
+       =========================== -->
+
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://fairaddis.github.io/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Multi-language support -->
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://fairaddis.github.io/" />
+    
+    <!-- Mobile optimization -->
+    <mobile:mobile/>
+    
+    <!-- Image optimization for homepage -->
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/og-image.jpg</image:loc>
+      <image:title>FairAddis - ከፍተኛ ጥራት ያላቸውን ንግዶች በአዲስ አበባ</image:title>
+      <image:caption>Discover quality businesses in Addis Ababa - Restaurants, Hair Salons, Juice Bars, and Supermarkets</image:caption>
+      <image:license>https://fairaddis.github.io/license</image:license>
+    </image:image>
+    
+    <!-- Additional homepage images -->
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/hero-background.jpg</image:loc>
+      <image:title>FairAddis Business Directory - Find Best Businesses in Addis Ababa</image:title>
+      <image:caption>Explore top-rated restaurants, salons, and shops in Addis Ababa</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#about</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    
+    <!-- Multi-language support -->
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#about" />
+    
+    <!-- Mobile optimization -->
+    <mobile:mobile/>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#contact</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    
+    <!-- Multi-language support -->
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#contact" />
+    
+    <!-- Mobile optimization -->
+    <mobile:mobile/>
+  </url>
+
+  <!-- ===========================
+       SEARCH & DISCOVERY PAGES
+       =========================== -->
+
+  <!-- Search Results Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#search</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    
+    <!-- Multi-language support -->
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#search" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#search" />
+    
+    <!-- Mobile optimization -->
+    <mobile:mobile/>
+  </url>
+
+  <!-- ===========================
+       BUSINESS CATEGORY PAGES
+       =========================== -->
+
+  <!-- Restaurants Category -->
+  <url>
+    <loc>https://fairaddis.github.io/#category/megeb-bet</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#category/megeb-bet" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#category/megeb-bet" />
+    <mobile:mobile/>
+    
+    <!-- Category images for better SEO -->
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/categories/restaurants.jpg</image:loc>
+      <image:title>Best Restaurants in Addis Ababa - ምርጥ ምግብ ቤቶች በአዲስ አበባ</image:title>
+      <image:caption>Discover top-rated restaurants and cafes in Addis Ababa</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Hair Salons Category -->
+  <url>
+    <loc>https://fairaddis.github.io/#category/segur-bet</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#category/segur-bet" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#category/segur-bet" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/categories/hair-salons.jpg</image:loc>
+      <image:title>Best Hair Salons in Addis Ababa - ምርጥ የፀጉር አስተካካዮች</image:title>
+      <image:caption>Find top hair salons and beauty parlors in Addis Ababa</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Juice Bars Category -->
+  <url>
+    <loc>https://fairaddis.github.io/#category/juice-bet</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#category/juice-bet" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#category/juice-bet" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/categories/juice-bars.jpg</image:loc>
+      <image:title>Best Juice Bars in Addis Ababa - ምርጥ ጁስ ቤቶች</image:title>
+      <image:caption>Fresh juices and smoothies from top juice bars in Addis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Supermarkets Category -->
+  <url>
+    <loc>https://fairaddis.github.io/#category/mini-super-markets</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#category/mini-super-markets" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#category/mini-super-markets" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/categories/supermarkets.jpg</image:loc>
+      <image:title>Best Supermarkets in Addis Ababa - ምርጥ ሱፐር ማርኬቶች</image:title>
+      <image:caption>Find convenient supermarkets and grocery stores in Addis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ===========================
+       AREA/LOCATION PAGES
+       =========================== -->
+
+  <!-- Bole Area -->
+  <url>
+    <loc>https://fairaddis.github.io/#area/bole</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#area/bole" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#area/bole" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/areas/bole.jpg</image:loc>
+      <image:title>Businesses in Bole Area - ንግዶች በቦሌ አካባቢ</image:title>
+    </image:image>
+  </url>
+
+  <!-- Piassa Area -->
+  <url>
+    <loc>https://fairaddis.github.io/#area/piyasa</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#area/piyasa" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#area/piyasa" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/areas/piassa.jpg</image:loc>
+      <image:title>Businesses in Piassa - ንግዶች በፒያሳ</image:title>
+    </image:image>
+  </url>
+
+  <!-- Saris Area -->
+  <url>
+    <loc>https://fairaddis.github.io/#area/saris</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#area/saris" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#area/saris" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/areas/saris.jpg</image:loc>
+      <image:title>Businesses in Saris - ንግዶች በሳሪስ</image:title>
+    </image:image>
+  </url>
+
+  <!-- Semanya Area -->
+  <url>
+    <loc>https://fairaddis.github.io/#area/semanya</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#area/semanya" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#area/semanya" />
+    <mobile:mobile/>
+    
+    <image:image>
+      <image:loc>https://fairaddis.github.io/images/areas/semanya.jpg</image:loc>
+      <image:title>Businesses in Semanya - ንግዶች በሰማንያ</image:title>
+    </image:image>
+  </url>
+
+  <!-- ===========================
+       USER & AUTHENTICATION PAGES
+       =========================== -->
+
+  <!-- Login Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#login</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#login" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#login" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- Register Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#register</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#register" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#register" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- Favorites Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#favorites</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#favorites" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#favorites" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- User Profile Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#profile</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#profile" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#profile" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- ===========================
+       STATIC CONTENT PAGES
+       =========================== -->
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://fairaddis.github.io/privacy-policy</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/privacy-policy" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://fairaddis.github.io/terms-of-service</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/terms-of-service" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://fairaddis.github.io/faq</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/faq" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- Business Submission Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#add-business</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#add-business" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#add-business" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- ===========================
+       ADDITIONAL SEO PAGES
+       =========================== -->
+
+  <!-- All Businesses Page -->
+  <url>
+    <loc>https://fairaddis.github.io/#all-businesses</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#all-businesses" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#all-businesses" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- Top Rated Businesses -->
+  <url>
+    <loc>https://fairaddis.github.io/#top-rated</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#top-rated" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#top-rated" />
+    <mobile:mobile/>
+  </url>
+
+  <!-- New Businesses -->
+  <url>
+    <loc>https://fairaddis.github.io/#new-businesses</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="am" href="https://fairaddis.github.io/#new-businesses" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://fairaddis.github.io/#new-businesses" />
+    <mobile:mobile/>
+  </url>
+
+</urlset>
